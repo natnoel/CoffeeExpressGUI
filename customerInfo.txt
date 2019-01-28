@@ -1,0 +1,5 @@
+Andrew Anderson;andrew;b234;33 John Street;123456789
+Ben Barron;ben;c234;45 Giles Street;897687565
+Carl Carringham;carl;d234;67 Jacob Lane;792833212
+Leon Tan;leon;213;Tampines Street 81;598373606
+Heng Aik Koan;heng;124;SIM Computer Lab;124124124

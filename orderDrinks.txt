@@ -1,0 +1,7 @@
+535534353;Cappucino;Small;5
+535534353;Hot Chocolate;Small;1
+535534353;Hot Chocolate;Medium;5
+535534353;Hot Chocolate;Large;4
+077965027;Hot Chocolate;Small;1
+077965027;Hot Chocolate;Medium;5
+077965027;Hot Chocolate;Large;1
